@@ -6,12 +6,12 @@
         <ul>
           <li class="laravel">Laravel</li>
           <li class="php">PHP</li>
-          <li class="js">JavaScript</li>
+          <li class="js">JS</li>
           <li class="git">Git</li>
           <li class="mysql">MySQL</li>
           <li class="html">HTML</li>
           <li class="css">CSS</li>
-          <li class="ps">Photoshop</li>
+          <li class="ps">PS</li>
           <li class="xd">XD</li>
         </ul>
       </section>
